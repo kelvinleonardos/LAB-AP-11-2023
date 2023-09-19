@@ -1,2 +1,3 @@
-# pertemuan-2
-Pertemuan ke-2 1 September 2023
+# Tugas praktikum 1
+
+Ya gitu doang sih :D
