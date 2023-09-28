@@ -22,5 +22,6 @@ while True :
             print("Selamat Malam")
         print(Hasil)
 
+    b = int(input())
     if b == 10 :
         break

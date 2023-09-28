@@ -10,4 +10,4 @@ n = int(input("Masukkan Bilangan : "))
 hasil = fibonacci(n)
 #print(f"{hasil}".format(hasil).replace("[","").replace("]","").replace(",",""))
 for i in hasil :
-    print (i,end="Ragilnata")
+    print (i,end=" ")
