@@ -8,8 +8,6 @@ def palindrom(kata: str)-> str :
 while True :
     kata = input("Masukkan Kata : ")
     palindrom(kata)
-
     if kata == "lol" :
-        palindrom(kata)
         print ("Loop End")
         break
