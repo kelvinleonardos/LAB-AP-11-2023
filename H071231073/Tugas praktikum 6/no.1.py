@@ -1,11 +1,11 @@
 print('Selamat datang, untuk memulai program silahkan input data anda')
-# x = input('Nama     = ')
-# while True:
-#     y = input('umur     = ')
-#     if y.isnumeric():
-#         break
+x = input('Nama     = ')
+while True:
+    y = input('umur     = ')
+    if y.isnumeric():
+        break
 
-# z = input('alamat   = ')
+z = input('alamat   = ')
 
 b = "="*55
 
