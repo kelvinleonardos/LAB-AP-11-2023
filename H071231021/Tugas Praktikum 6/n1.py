@@ -5,13 +5,7 @@ while True:
     Umur = input("Input umur : ")
     if Umur.isnumeric():
         break
-
-
 Alamat = input("Input alamat : ")
-
-
-    
-
 
 Data = {
     "Nama" : Nama,
@@ -21,7 +15,7 @@ Data = {
 
 while True:
     print(f'''         
-======================:=============================
+===================================================
 Selamat datang {Data["Nama"]}, silahkan pilih opsi
 ===================================================
 1. Detail Anda

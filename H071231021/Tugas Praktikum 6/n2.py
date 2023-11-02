@@ -1,11 +1,7 @@
-# array1 = map(int, input("Input array ke 1: ").split(" "))
-# array2 = map(int, input("Input array ke 2: ").split(" "))
-
 array1 = input("Input array 1: ").split(" ")
 array1 = [int(i) for i in array1]
 array2 = input("Input array 2: ").split(" ")
 array2 = [int(i) for i in array2]
-
 
 set1 = set(array1)
 set2 = set(array2)

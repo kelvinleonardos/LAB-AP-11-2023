@@ -2,6 +2,7 @@ import os
 import datetime
 import random
 
+# MEMBUAT FUNGSI
 def Garis(n):
     print('=' * n)
 
@@ -67,6 +68,7 @@ def Tabel_Riwayat_Transaksi(Waktu, ID, Nominal):
 
 
 # PROGRAM UTAMA
+
 Garis(60)
 print('SELAMAT DATANG'.center(60))
 Garis(60)
